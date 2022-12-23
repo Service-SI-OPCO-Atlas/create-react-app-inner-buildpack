@@ -8,6 +8,4 @@ See: [create-react-app-buildpack's architecture](https://github.com/mars/create-
 Development
 -----------
 
-Use Ruby 1.9.3 as built-in to Cedar-14.
-
-Run tests: `bundle exec rake`
+Use Nodejs instead of Ruby
